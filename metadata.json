@@ -1,0 +1,6 @@
+{
+  "name": "TalentSync - Resume & Job Compatibility Analyzer",
+  "description": "AI-powered career intelligence analyzing resume experience against job descriptions with compatibility scoring, skill gap analysis, keyword optimization, and targeted interview preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
